@@ -1,5 +1,5 @@
 # Bot produce by LOLe666
-# Checked by kal1i
+
 
 import discord
 from discord.ext import commands
