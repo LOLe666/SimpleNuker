@@ -1,6 +1,6 @@
 # SimpleNuker
 
-Here is a simple nuker code that i built with @Kal1i
+Here is a simple nuker code that i built
 
 this nuker is for discord.py
 have fun and enjoy it! 
